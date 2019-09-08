@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeobikiye.dangerinc.ca/sitemap.xml
